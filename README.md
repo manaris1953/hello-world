@@ -1,2 +1,2 @@
 # hello-world
-Είναι το πρώτο repos;itory για άσκηση
+Είναι το πρώτο repository για άσκηση
